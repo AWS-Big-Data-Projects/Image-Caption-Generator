@@ -34,9 +34,7 @@ LSTM picks part of image and maps to the appropriate word in the caption. An emb
 ![cnn](https://user-images.githubusercontent.com/63635084/105346106-203a0100-5c0b-11eb-8d7d-3a1ea1679817.JPG)   
   
 ## Code:
-[Click here for Code](https://github.com/nileshsingal/IMAGE_CAPTION_GENERATOR/blob/master/Image_Captioning.py)  
+[Click here for Code](https://github.com/AWS-Big-Data-Projects/IMAGE_CAPTION_GENERATOR/blob/master/Image_Captioning.py)  
   
   
-## Author:  
-- [NileshSingal](https://github.com/nileshsingal)
 
